@@ -36,11 +36,10 @@ rl.question("Informe o número inteiro: ", (val) => {
     //Constante com o resultado
     const res = somaTudo(val)
 
-    // Log com o resultado
-    console.log("O resultado da soma dos números divisíveis por 3 e 5 que estão abaixo de " + val + " é " + res);
+    // readline com o resultado
+    rl.write("O resultado da soma dos números divisíveis por 3 e 5 que estão abaixo de " + val + " é " + res);
 
     // Fecha o Readline para o programa não ficar executando infinitamente
     rl.close();
 
 });
-
