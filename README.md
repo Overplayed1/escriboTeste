@@ -11,4 +11,4 @@ Para começar, você precisa ter o node instalado na sua máquina.\
 Abra o console, copie e cole este comando: node index.js.\
 Digite o número de seu interesse e cheque o resultado.
 
-#### `Feito utilizando JavaScript`# escriboTeste
+#### `Feito utilizando JavaScript`
